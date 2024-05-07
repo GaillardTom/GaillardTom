@@ -2,7 +2,7 @@
 
 
 <h2 align="left" >Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute.png" alt="Vulcan Salute" width="25" height="25" /> I'm Tom <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />, a developer from Canada🍁! </h2> 
-<h6>I'm a software developer who loves hacking things together. When I'm not coding, you can find me hiking, gaming <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> or brewing a fresh pot of coffee <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" />.</h6>
+<h3>I'm a software developer who loves hacking things together. When I'm not coding, you can find me hiking, gaming <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> or brewing a fresh pot of coffee <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" />.</h3>
 
 
 <img align="right" height="300" src="./assets/marginalia-a-person-sitting-in-front-of-a-computer-screen.gif"  />
@@ -13,29 +13,20 @@
     <h3>
     <a  href="https://tomgaillard.ca/" target="_blank" referer="bio_tom_gh"> Portfolio  <img align="center" src="./assets/3d-techny-searching-for-a-file-in-a-folder.gif" height="100" width="100" alt="portfoliologo" />
     
-  </a></h3>
-</div>    
- 
-
-<div align="center">
-<h3>
-<a align="center" href="https://app.hackthebox.com/profile/832591" target="_blank" referer="bio_tom_gh"> HTB <img align="center" src="https://media2.giphy.com/media/2DUl6BtXGAx2uyqIas/giphy.gif" height="100" width="100" alt="HTBlogo" /> 
- </a>
-
- </h3>
+  </a></h3> <h3> <a align="center" href="https://app.hackthebox.com/profile/832591" target="_blank" referer="bio_tom_gh"> HTB <img align="center" src="https://media2.giphy.com/media/2DUl6BtXGAx2uyqIas/giphy.gif" height="100" width="100" alt="HTBlogo" /> </a></h3>
 
 </div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" alt="Bat" width="50" height="50" /> What I do in the night
 
 
-<h6>Currently improving my skills in Docker and exploring the world of Kubernetes and learning terraform</h6>
+<h4>Currently improving my skills in Docker and exploring the world of Kubernetes and learning terraform</h4>
 
 <br />
 
 ###
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack Used</h3>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack Used</h2>
 
 ###
 <div align="center">
@@ -71,7 +62,7 @@
 
 ###
 
-<h3 align="center">Talk <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> With Me</h3>
+<h2 align="center">Talk <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> With Me</h2>
 
 ###
 
@@ -90,13 +81,14 @@
 ###
 
 <div align="center"> 
+<h2>Some Stats</h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaillardTom&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaillardTom&theme=tokyonight)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaillardTom&theme=tokyonight)
 
 </div>
 
-<h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="40" height="40" /> What I'm listening to <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="40" height="40" /></h4>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="40" height="40" /> What I'm listening to <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="40" height="40" /></h3>
 
 ###
 
