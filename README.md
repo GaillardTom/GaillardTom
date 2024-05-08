@@ -20,7 +20,17 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" alt="Bat" width="50" height="50" /> What I do in the night
 
 
-<h4>Currently improving my skills in Docker and exploring the world of Kubernetes and learning terraform</h4>
+<h5>
+
+  * *Currently improving my skills in Docker and exploring the world of Kubernetes*
+
+  * *Learning Terraform and Azure*
+  
+  * *Grinding Season 5 of HTB*
+
+  * *Practicing some math on KhanAcademy*
+  
+  </h5>
 
 <br />
 
