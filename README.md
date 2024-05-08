@@ -19,8 +19,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" alt="Bat" width="50" height="50" /> What I do in the night
 
-
-<h5>
+<h4>
 
   * *Currently improving my skills in Docker and exploring the world of Kubernetes*
 
@@ -29,8 +28,10 @@
   * *Grinding Season 5 of HTB*
 
   * *Practicing some math on KhanAcademy*
+
+  * *Studying to pass the ComptiaSec+ exam*
   
-  </h5>
+  </h4>
 
 <br />
 
