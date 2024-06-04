@@ -99,15 +99,7 @@
 
 </div>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="40" height="40" /> What I'm listening to <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="40" height="40" /></h3>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/aegaillard1">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=aegaillard1&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
 
 
 
