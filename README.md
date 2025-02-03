@@ -9,6 +9,7 @@
 
 
 ### 
+/*
 <div align="center">
     <h3>
     <a  href="https://tomgaillard.ca/" target="_blank" referer="bio_tom_gh"> Portfolio  <img align="center" src="./assets/3d-techny-searching-for-a-file-in-a-folder.gif" height="100" width="100" alt="portfoliologo" /> </a>
@@ -16,7 +17,7 @@
   <a align="center" href="https://app.hackthebox.com/profile/832591" target="_blank" referer="bio_tom_gh"> HTB <img align="center" src="https://media2.giphy.com/media/2DUl6BtXGAx2uyqIas/giphy.gif" height="100" width="100" alt="HTBlogo" /> </a></h3>
 
 </div>
-
+*/
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" alt="Bat" width="50" height="50" /> What I do in the night
 
 <h4>
