@@ -8,17 +8,10 @@
     <a href="https://app.hackthebox.com/profile/832591" target="_blank" referer="bio_tom_gh"><img align="center" src="https://media2.giphy.com/media/2DUl6BtXGAx2uyqIas/giphy.gif" height="100" width="100" alt="Hack The Box Logo" /> Hack The Box</a>
     </h3>
 </div>
-<script>
-  function test(){
-    alert("Test")
-  }
-  () => alert("test")
-  alert("test") 
-</script>
 
 ### What I Do in My Spare Time
   <ul style="font-family: 'Lucida console', Arial, Helvetica ; font-size: 2vh; ">
-    <li onClick="test()">Improving my skills in Docker and exploring the world of Kubernetes</li>
+    <li onClick="alert(1)">Improving my skills in Docker and exploring the world of Kubernetes</li>
     <li>Learning Terraform and Azure</li>
     <li>Practicing my math on KhanAcademy</li>
     <li>Completing labs on owasp.org</li>
