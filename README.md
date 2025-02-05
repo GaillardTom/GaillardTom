@@ -16,7 +16,7 @@
     <li>Practicing my math on KhanAcademy</li>
     <li>Completing labs on owasp.org</li>
   </ul>
-
+<br><br>
 <div align="center" style="margin-top: 4vh">
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaillardTom&theme=tokyonight)
