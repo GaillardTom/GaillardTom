@@ -1,5 +1,10 @@
 ﻿<h2 align="left">Hello, I'm Tom, a Developer and Student from Canada</h2>
-<h3 style="font-size: 2vh">I am a software developer currently pursuing a Bachelor's degree in Computer Science at the University of Sherbrooke.</h3>
+ 
+> I am a software developer currently pursuing a Bachelor's degree in Computer Science at the University of Sherbrooke.
+
+<!-- <h3 style="font-size: 2vh"> > I am a software developer currently pursuing a Bachelor's degree in Computer Science at the University of Sherbrooke.</h3> -->
+
+
 
 ### Connect with Me
 <div align="center">
@@ -9,14 +14,12 @@
     </h3>
 </div>
 
-### What I Do in My Spare Time
-  <ul style="font-family: 'Lucida console', Arial, Helvetica ; font-size: 2vh; ">
-    <li onClick="alert(1)">Improving my skills in Docker and exploring the world of Kubernetes</li>
-    <li>Learning Terraform and Azure</li>
-    <li>Practicing my math on KhanAcademy</li>
-    <li>Completing labs on owasp.org</li>
-  </ul>
-<br><br>
+### What I Do in My Spare Time    
+    - Improving my skills in Docker and exploring the world of Kubernetes 
+    - Learning Terraform and Azure
+    - Practicing my math on KhanAcademy
+    - Completing labs on owasp.org
+ 
 <div align="center" style="margin-top: 4vh">
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaillardTom&theme=tokyonight)
