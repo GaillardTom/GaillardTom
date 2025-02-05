@@ -21,11 +21,9 @@
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaillardTom&theme=tokyonight)
 
-  <div style="display: flex; align-items: center; gap: 2vh; justify-content: center;">
+  <div float="left" style="display: flex; align-items: center; gap: 2vh; justify-content: center;">
 
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaillardTom&theme=tokyonight)
-        
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaillardTom&theme=tokyonight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaillardTom&theme=tokyonight)     ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaillardTom&theme=tokyonight)
     </div>
 </div>
