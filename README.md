@@ -22,7 +22,7 @@
  
 <div align="center" style="margin-top: 4vh">
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaillardTom&theme=tokyonight)
+  <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaillardTom&theme=tokyonight) -->
 
   <div float="left" style="display: flex; align-items: center; gap: 2vh; justify-content: center;">
 
