@@ -11,7 +11,7 @@
     <h3 style="display: flex; justify-content: center; gap: 15vh; font-size: 2vh;">
     <a href="https://tomgaillard.ca/" target="_blank" referer="https://github.com" style="display: absolute"><img align="center" src="./assets/3d-techny-searching-for-a-file-in-a-folder.gif" height="50" width="50" alt="Portfolio Logo" style=""/> Portfolio</a>
     <a href="https://app.hackthebox.com/profile/832591" target="_blank" referer="https://github.com"><img align="center" src="https://media2.giphy.com/media/2DUl6BtXGAx2uyqIas/giphy.gif" height="50" width="50" alt="Hack The Box Logo" /> HTB</a>
-    <a href="mailto:tomgaillard1@gmail.com" target="_blank" referer="https://github.com"><img align="center" src="./assets/icons8-gmail.gif" height="50" width="50" alt="Email Logo" /> Email</a>
+    <a href="mailto:tomgaillard1@gmail.com" target="_blank" referer="https://github.com"><img align="center" src="./assets/icons8-email.gif" height="50" width="50" alt="Email Logo" /> Email</a>
     <a href="https://www.linkedin.com/in/tom-gaillard-b94895255/" target="_blank" referer="https://github.com"><img align="center" src="./assets/icons8-linkedin.gif" height="50" width="50" alt="Linkedin Logo" /> Linkedin</a>
     </h3>
 </div>
