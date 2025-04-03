@@ -18,7 +18,7 @@
 
 ### What I Do in My Spare Time    
     - Completing labs on owasp.org
-    - Training for the "oscp certification
+    - Training for the oscp certification
  
 <div align="center" style="margin-top: 4vh">
   
